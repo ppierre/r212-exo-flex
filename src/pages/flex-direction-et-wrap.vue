@@ -10,7 +10,7 @@
       fixer les axes de "flex" pour qu'ils correspondent à l'exemple en tranparence
     </p>
 
-    <div class="absolute top-[-2px] left-[-2px] h-full w-full opacity-50">
+    <div class="absolute top-[-2px] left-[-2px] h-full w-full opacity-30">
       <img class="h-[2576px] w-[324px]" src="../assets/flex-direction-et-wrap.png" alt="" />
     </div>
   </section>
